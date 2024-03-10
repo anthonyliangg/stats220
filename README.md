@@ -8,8 +8,8 @@ I enjoy playing video games in my free time.
 
 **Some of my favourite games are:**
 * [Counter-Strike](https://store.steampowered.com/app/730/CounterStrike_2/)
-* Vampire Survivors
-* Dave the Diver
+* [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
+* [Dave the Diver](https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/)
 
 ## **Project**:
 
