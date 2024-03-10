@@ -7,8 +7,7 @@ I am a second year computer science major currently studying at the University o
 I enjoy playing video games in my free time.
 
 **Some of my favourite games are:**
-*
-[Counter-Strike]("https://store.steampowered.com/app/730/CounterStrike_2/")
+* [Counter-Strike](https://store.steampowered.com/app/730/CounterStrike_2/)
 * Vampire Survivors
 * Dave the Diver
 
